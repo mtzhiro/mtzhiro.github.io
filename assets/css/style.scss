@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-header{
+    background-image:linear-gradient(to right, #625793 0%, #d55d64 35%, #e49129 65%, #c0671c 100%); 
+};
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6{
+    color:#625793
+}
+.project-name a,.project-name a:hover,.project-name a:visited{
+    color: inherit;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr{
+    border-bottom: solid 2px white;
+}
+
+  table tr:last-child{
+    border-bottom: none;
+  }
+
+  table th{
+    position: relative;
+    text-align: left;
+    width: 30%;
+    background-color: #b6b6b6;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
