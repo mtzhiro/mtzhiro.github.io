@@ -30,3 +30,15 @@ AI , openscience , opensource , technology , software , hardware , soccer / foot
 
 
 ( Gihub page reference from ykmkn.github.io )
+
+## my profile image 
+
+![Hirosato Matsuura profile image ](https://mtzhiro.wordpress.com/wp-content/uploads/2025/06/487770556_10161160466397546_8014799059405447494_n.png)
+
+
+## reference
+
+( Gihub page reference from ykmkn.github.io )
+
+
+
