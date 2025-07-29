@@ -1,17 +1,6 @@
-７# introduction myself
+# introduction myself
 
-engineer Hirosato Matsuura live in São Paulo , Brasil
-
-[https://mtzhiro.github.io](https://mtzhiro.github.io)
-[https://hirosato.info](https://hirosato.info)
-[https://hirosato-matsuura.biz](https://hirosato-matsuura.biz)
-
-( Gihub page reference from ykmkn.github.io )
-
-
-## mtzhiro.github.io
-Hirosato Matsuura Github io site
-testing
+engineer Hirosato Matsuura live in São Paulo , Brasil . bkrn in Japan . 
 
 ## links - Web
 
@@ -36,3 +25,8 @@ LINE [https://0i.pt](https://0i.pt)
 keywords understand Hirosato Matsuura .
 
 AI , openscience , opensource , technology , software , hardware , soccer / football , coffee /café , Brasil , Japan , maniac , academic , science , code , man kike women , computer gadgets , dog , cat , nature , .. 
+
+# other
+
+
+( Gihub page reference from ykmkn.github.io )
