@@ -2,6 +2,10 @@
 
 engineer Hirosato Matsuura live in São Paulo , Brasil . bkrn in Japan . 
 
+-Engineer/Glober - have job at [Globant](https://Globant.com) , matsuura.hirosato@globant.com
+
+-[openscientist](https://opensc.es) 
+
 ## links - Web
 
 [main1 ( Github pages ) ](https://mtzhiro.github.io/)
