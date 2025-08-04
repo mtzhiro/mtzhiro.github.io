@@ -1,6 +1,6 @@
 # introduction myself
 
-engineer Hirosato Matsuura live in São Paulo , Brasil . bkrn in Japan . 
+engineer Hirosato Matsuura live in São Paulo , Brasil . born in Japan . 
 
 -Engineer/Glober - have job at [Globant](https://Globant.com) , matsuura.hirosato@globant.com
 
