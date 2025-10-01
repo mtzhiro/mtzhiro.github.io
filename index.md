@@ -11,7 +11,9 @@ engineer Hirosato Matsuura live in São Paulo , Brasil . born in Japan .
 -Engineer/Glober - have job at [Globant](https://Globant.com) , matsuura.hirosato@globant.com
 
 -[openscientist](https://opensc.es) 
+
 -foundr of [BY-HUMAN.org](https://BY-HUMAN.org)
+
 ## links - Web
 
 [main1 ( Github pages ) ](https://mtzhiro.github.io/)
