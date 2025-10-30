@@ -13,7 +13,7 @@ engineer Hirosato Matsuura live in São Paulo , Brasil . born in Japan .
 -[openscientist](https://opensc.es) 
 
 
--foundr of [BY-HUMAN.org](https://BY-HUMAN.org)
+-foundr of [BraZINE.com.br](https://BraZINE.com.br) and  [BY-HUMAN.org](https://BY-HUMAN.org)
 
 
 ## links - Web
